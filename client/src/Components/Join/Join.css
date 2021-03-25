@@ -1,0 +1,26 @@
+.join_form {
+  display: block;
+    
+}
+
+body{
+    background-color: white;
+}
+
+.center{
+    display: flex;
+    height: 100vh;
+  
+    align-items: center;
+    justify-content: center;
+}
+
+.room{
+    margin-top: 2.3%;
+    
+}
+
+.join_button{
+    margin-top: 3.5%;
+    float: right;
+}
