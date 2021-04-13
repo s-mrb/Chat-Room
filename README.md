@@ -8,7 +8,7 @@ ChatRooms app I build for assignment of a friend.
 As Simple Program
 
 ```
-1. git clone https://github.com/MehdiRazaBukhari/Chat-Room
+1. git clone https://github.com/s-mrb/Chat-Room
 2. cd Chat-Room
 3. (cd server && npm install && npm start) & (cd client && yarn install && yarn start)
 
@@ -20,7 +20,7 @@ As Simple Program
 As Docker Container
 
 ```
-1. git clone https://github.com/MehdiRazaBukhari/Chat-Room
+1. git clone https://github.com/s-mrb/Chat-Room
 2. cd Chat-Room
 3. sudo ./setup-docker.sh
 
